@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Formatter
+*.orig
+
+# Exectution output
+result-*.txt
