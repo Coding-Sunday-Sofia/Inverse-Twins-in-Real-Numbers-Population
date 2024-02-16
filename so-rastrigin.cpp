@@ -14,7 +14,7 @@
 #include <iomanip>
 #include "openGA.hpp"
 
-const int SPACE_SIZE = 3;
+const int SPACE_SIZE = 100;
 const int POPULATION_SIZE = 100;
 const int MAXIMUM_GENERATIONS = 1000;
 
