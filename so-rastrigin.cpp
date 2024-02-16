@@ -15,8 +15,8 @@
 #include "openGA.hpp"
 
 const int SPACE_SIZE = 3;
-const int POPULATION_SIZE = 10000;
-const int MAXIMUM_GENERATIONS = 10000;
+const int POPULATION_SIZE = 100;
+const int MAXIMUM_GENERATIONS = 1000;
 
 struct MySolution {
     std::vector < double > x;
